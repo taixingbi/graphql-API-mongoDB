@@ -9,7 +9,7 @@ npm install cors --save
 nodemon app.js
 
 ### test query 
-http://localhost:4000/graphql?
+http://localhost:4000/graphql?      
     * query all objects
     {
         users{  
