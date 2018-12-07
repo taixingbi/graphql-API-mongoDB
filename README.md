@@ -1,9 +1,9 @@
 ### install
-sudo npm install nodemon -g
-npm install graphql express-graphql
-npm install mongoose
-npm install lodash
-npm install cors --save
+sudo npm install nodemon -g   
+npm install graphql express-graphql   
+npm install mongoose   
+npm install lodash   
+npm install cors --save    
 
 ### start
 nodemon app.js
