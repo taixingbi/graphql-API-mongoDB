@@ -26,7 +26,7 @@ http://3.17.43.83:4000/graphql?
         }
     }    
 
-    * query singe object
+    * query single object
     {
         user(id: "5c07fdc2fb6fc038cbb3ca14"){  
             name
